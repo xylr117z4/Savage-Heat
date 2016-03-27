@@ -1,5 +1,5 @@
 # Savage-Heat
-Old Project
+Sidescrolling shooter
 
 The project is pretty much dead at this point.
 I would love to continue it but I would need to completely re-write all the code.
